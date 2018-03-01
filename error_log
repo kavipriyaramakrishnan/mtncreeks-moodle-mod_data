@@ -1,0 +1,242 @@
+[01-Mar-2018 12:24:46 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:25:27 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:25:28 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:27:08 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:27:10 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:27:11 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:27:11 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:27:20 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:00 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:14 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:16 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:40 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:42 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:28:43 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:29:26 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:31:15 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:31:54 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:31:56 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:32:48 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:32:50 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:33:32 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:33:33 Australia/Perth] PHP Parse error:  syntax error, unexpected '$emailfieldid' (T_VARIABLE), expecting ',' or ';' in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:37:17 Australia/Perth] PHP Fatal error:  Call to undefined function get_field() in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:37:41 Australia/Perth] PHP Fatal error:  Call to undefined function get_field() in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:38:01 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 234
+[01-Mar-2018 12:38:01 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 236
+[01-Mar-2018 12:38:01 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:38:01 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:38:01 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 54
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:38:54 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 234
+[01-Mar-2018 12:38:54 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 236
+[01-Mar-2018 12:38:54 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:38:54 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:38:54 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 55
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:39:34 Australia/Perth] PHP Notice:  Undefined property: stdClass::$id in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:39:34 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 234
+[01-Mar-2018 12:39:34 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 236
+[01-Mar-2018 12:39:34 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:39:34 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:39:34 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 56
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:40:24 Australia/Perth] PHP Notice:  Undefined property: stdClass::$id in /home/priya/public_html/moodle33/mod/data/edit.php on line 232
+[01-Mar-2018 12:40:24 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 234
+[01-Mar-2018 12:40:24 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 236
+[01-Mar-2018 12:40:24 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:40:24 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:40:24 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 57
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:40:36 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 234
+[01-Mar-2018 12:40:36 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 236
+[01-Mar-2018 12:40:36 Australia/Perth] PHP Notice:  Undefined variable: userarray in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:40:36 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:40:36 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 58
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:45:39 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 235
+[01-Mar-2018 12:45:39 Australia/Perth] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/priya/public_html/moodle33/mod/data/edit.php on line 235
+[01-Mar-2018 12:45:39 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:45:39 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 59
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:46:21 Australia/Perth] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/priya/public_html/moodle33/mod/data/edit.php on line 235
+[01-Mar-2018 12:46:21 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:46:21 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 60
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:47:07 Australia/Perth] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/priya/public_html/moodle33/mod/data/edit.php on line 235
+[01-Mar-2018 12:47:07 Australia/Perth] PHP Warning:  Invalid argument supplied for foreach() in /home/priya/public_html/moodle33/mod/data/edit.php on line 238
+[01-Mar-2018 12:47:07 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 61
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:47:25 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 62
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:48:21 Australia/Perth] Default exception handler: Error reading from database Debug: Unknown column 'dr.recordid' in 'where clause'
+SELECT dc.content as name
+                    FROM mdl_data_content dc
+                    JOIN mdl_data_fields df
+                    ON df.id = dc.fieldid 
+                    JOIN mdl_data_records dr
+                    ON dr.id = dc.recordid
+                    WHERE df.name = 'Name of Requestor'
+                    AND dr.recordid = 63
+[array (
+)]
+Error code: dmlreadexception
+* line 486 of /lib/dml/moodle_database.php: dml_read_exception thrown
+* line 1190 of /lib/dml/mysqli_native_moodle_database.php: call to moodle_database->query_end()
+* line 1558 of /lib/dml/moodle_database.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 1631 of /lib/dml/moodle_database.php: call to moodle_database->get_record_sql()
+* line 252 of /mod/data/edit.php: call to moodle_database->get_field_sql()
+
+[01-Mar-2018 12:48:35 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 273
+[01-Mar-2018 12:48:35 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 274
+[01-Mar-2018 12:48:35 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 275
+[01-Mar-2018 12:48:35 Australia/Perth] PHP Notice:  Undefined property: stdClass::$username in /home/priya/public_html/moodle33/lib/moodlelib.php on line 5924
+[01-Mar-2018 12:55:38 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 273
+[01-Mar-2018 12:55:38 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 274
+[01-Mar-2018 12:55:38 Australia/Perth] PHP Notice:  Trying to get property of non-object in /home/priya/public_html/moodle33/mod/data/edit.php on line 275
+[01-Mar-2018 12:55:38 Australia/Perth] PHP Notice:  Undefined property: stdClass::$username in /home/priya/public_html/moodle33/lib/moodlelib.php on line 5924
+[01-Mar-2018 12:55:38 Australia/Perth] PHP Notice:  Undefined property: stdClass::$username in /home/priya/public_html/moodle33/lib/moodlelib.php on line 5924
