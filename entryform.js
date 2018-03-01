@@ -1,7 +1,6 @@
 M.mod_data = {};
-alert('here');
 
-M.mod_data.init_view = function(Y) {alert('in');
+M.mod_data.init_view = function(Y) {
     Y.io("entryform.php", {
     method: "POST",
     data: "value=1",

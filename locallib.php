@@ -1286,7 +1286,7 @@ function data_update_record_fields_contents($data, $record, $context, $datarecor
 }
 
 /**
- * Schedule task function to . 
+ * Schedule task function to - TXE-274165
  *
  * @uses $DB
  * @return null- send emails to users

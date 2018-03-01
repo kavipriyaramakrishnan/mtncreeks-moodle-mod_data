@@ -1,5 +1,7 @@
 <?php
 
+/*TXE-274165*/
+
 require_once('../../config.php');
 global $DB, $USER;
 $html = array();
